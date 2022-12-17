@@ -6,6 +6,9 @@
 
 #include "flipper.dtsi"
 
+/*
+ * this is the split in the keyboard
+ */
 &default_transform {
-	col-offset = <14>;
+	col-offset = <18>;
 };
